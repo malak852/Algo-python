@@ -384,7 +384,10 @@ for i in range(n):
      ######
      #######
    ```
-
+  ```  
+  for i in range(1, 8):
+  print("#" * i)
+   ```
 4. Use nested loops to create the following:
 
    ```sh
